@@ -1,11 +1,11 @@
 # ncnn_win_lib
 ncnn library for windows
 
-#build env
+# build env
 Windows 10 Pro
 Intelx64
 
-#build config
+# build config
 NCNN_BENCHMARK = OFF
 NCNN_OPENCV = OFF
 NCNN_OPENMP = OFF
